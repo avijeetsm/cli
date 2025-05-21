@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 from unittest.mock import Mock
 from httpie.cli.utils import LazyChoices
 
-
+#update
 def test_lazy_choices():
     mock = Mock()
     getter = mock.getter
